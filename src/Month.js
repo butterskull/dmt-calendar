@@ -10,9 +10,6 @@ const Month = () => (
 );
 
 class MonthCard extends React.Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     console.log("Month :" + this.props.monthName);
     return (
