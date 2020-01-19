@@ -1,50 +1,62 @@
 [
   {
     "id": 1,
-    "name": "Hammer"
+    "name": "Hammer",
+    "commonName": "Deepwinter"
   },
   {
     "id": 2,
-    "name": "Alturiak"
+    "name": "Alturiak",
+    "commonName": "The Claw of Winter"
   },
   {
     "id": 3,
-    "name": "Ches"
+    "name": "Ches",
+    "commonName": "The Claw of the Sunsets"
   },
   {
     "id": 4,
-    "name": "Tarsakh"
+    "name": "Tarsakh",
+    "commonName": "The Claw of the Storms"
   },
   {
     "id": 5,
-    "name": "Mirtul"
+    "name": "Mirtul",
+    "commonName": "The Melting"
   },
   {
     "id": 6,
-    "name": "Kythorn"
+    "name": "Kythorn",
+    "commonName": "The Time of Flowers"
   },
   {
     "id": 7,
-    "name": "Flamerule"
+    "name": "Flamerule",
+    "commonName": "Summertide"
   },
   {
     "id": 8,
-    "name": "Eliasis"
+    "name": "Eliasis",
+    "commonName": "Highsun"
   },
   {
     "id": 9,
-    "name": "Eleint"
+    "name": "Eleint",
+    "commonName": "The Fading"
   },
   {
     "id": 10,
-    "name": "Marpenoth"
+    "name": "Marpenoth",
+    "commonName": "Leaffall"
   },
   {
     "id": 11,
-    "name": "Uktar"
+    "name": "Uktar",
+    "commonName": "The Rotting"
   },
   {
     "id": 12,
-    "name": "Nightal"
+    "name": "Nightal",
+    "commonName": "The Drawing Down"
   }
 ]

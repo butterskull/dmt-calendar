@@ -1,10 +1,15 @@
 import React from "react";
 import Months from "./months.json";
+import Day from "./Day";
 
 const Month = () => (
   <>
-    {Months.map(month => (
-      <MonthCard monthName={month.name} key={month.id} />
+    {Months.map((month, i) => (
+      <MonthCard
+        monthName={1 + i + " " + month.name}
+        commonName={month.commonName}
+        key={i}
+      />
     ))}
   </>
 );
@@ -14,8 +19,10 @@ class MonthCard extends React.Component {
     console.log("Month :" + this.props.monthName);
     return (
       <div className="Month" key={this.props.key}>
-        <p>{this.props.monthName}</p>
-        <div>days</div>
+        <p>
+          {this.props.monthName} : {this.props.commonName}
+        </p>
+        <Day />
       </div>
     );
   }
