@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Hammer"
+  },
+  {
+    "id": 2,
+    "name": "Alturiak"
+  },
+  {
+    "id": 3,
+    "name": "Ches"
+  },
+  {
+    "id": 4,
+    "name": "Tarsakh"
+  },
+  {
+    "id": 5,
+    "name": "Mirtul"
+  },
+  {
+    "id": 6,
+    "name": "Kythorn"
+  },
+  {
+    "id": 7,
+    "name": "Flamerule"
+  },
+  {
+    "id": 8,
+    "name": "Eliasis"
+  },
+  {
+    "id": 9,
+    "name": "Eleint"
+  },
+  {
+    "id": 10,
+    "name": "Marpenoth"
+  },
+  {
+    "id": 11,
+    "name": "Uktar"
+  },
+  {
+    "id": 12,
+    "name": "Nightal"
+  }
+]
